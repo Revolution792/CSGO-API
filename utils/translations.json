@@ -323,6 +323,18 @@
         "skin_souvenir": "{item_name} (Сувенір) | {pattern} ({wear})",
         "highlight_charm": "{charm_name} (Сувенір) | {keychain_name} | {highlight_name}"
     },
+    "ua": {
+        "collectible_genuine": "{item_name} ({genuine})",
+        "rare_special": "{item_name} (★) | {pattern}",
+        "rare_special_with_wear": "{item_name} (★) | {pattern} ({wear})",
+        "rare_special_with_wear_stattrak": "{item_name} (★ StatTrak™) | {pattern} ({wear})",
+        "rare_special_vanilla": "{item_name} (★)",
+        "rare_special_vanilla_stattrak": "{item_name} (★ StatTrak™)",
+        "skin": "{item_name} | {pattern} ({wear})",
+        "skin_stattrak": "{item_name} (StatTrak™) | {pattern} ({wear})",
+        "skin_souvenir": "{item_name} (Сувенір) | {pattern} ({wear})",
+        "highlight_charm": "{charm_name} (Сувенір) | {keychain_name} | {highlight_name}"
+    },
     "vi": {
         "collectible_genuine": "{item_name} ({genuine})",
         "rare_special": "{item_name} (★) | {pattern}",
