@@ -440,6 +440,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6_evb6hoH_aaHGKS0-t3pOlgQS6MmRQguynLn9ircSiTPFUgCJAkQbELsxXtktDkMurk4lTZ39hEyn_-3HsbvXxj4fFCD_RcNNN-xQ"
+   },
+   "1458": {
+    "name": "Desert Eagle | Exotisches Rätsel",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "Vertraulich",
+     "color": "#d32ce6"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light_png.png"
    }
   },
   "2": {
@@ -862,6 +872,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL0kp_0-B1I4PeRaad_OfyaDViWzeFh495lRi67gVN3tmnTn4yreXvFZgYjD8QlE-QK4EGxkda0Ze20tQbZ2Y9CyS_5iC1K8G81tJXDIHOE"
+   },
+   "1459": {
+    "name": "Akimbo-Berettas | Mystische Verbindung",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light_png.png"
    }
   },
   "3": {
@@ -1274,6 +1294,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3l4Dl7idN6vyRbq17JeOWGGKe_v55vPhkSjuMkRw1uAKJk4jxNWWVaw9yAsF3R-cItkTqx9HiY-23tFeN3oNFyS_9jn4a5i5o5b0AB6B35OSJ2MsRWanJ"
+   },
+   "1457": {
+    "name": "Five-SeveN | Wüstensiegel",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light_png.png"
    }
   },
   "4": {
@@ -1846,6 +1876,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tnJOCWC2yvzedxuPUnS3HqzR9152_UyNigeSqWa1BxW8ElRLJfshfpkNHuZO_n4ADd2IxBxDK-0H3ID5Y8zA"
+   },
+   "1450": {
+    "name": "Glock-18 | Protokoll Geist",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "Verdeckt",
+     "color": "#eb4b4b"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ghost_protocol_red_light_png.png"
+   },
+   "1460": {
+    "name": "Glock-18 | Flaschengeist-Gefäß",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_ifrit_lattice_light_png.png"
    }
   },
   "7": {
@@ -2438,6 +2488,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiNQu6WRa7ZsLvWsCGuZxuZij-1gSCGn20wksT7Xzo6ueX6VOgUmWZQiTO5btxDrldbmNru05QLfiN5EmHmsj3hXrnE8mi375M8"
+   },
+   "1449": {
+    "name": "AK-47 | AUTOEXEC",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "Verdeckt",
+     "color": "#eb4b4b"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_autoexec_camo_light_png.png"
+   },
+   "1466": {
+    "name": "AK-47 | Konsequenzen des Dschinn",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "Verdeckt",
+     "color": "#eb4b4b"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak47_jinn_consequence_light_png.png"
    }
   },
   "8": {
@@ -2880,6 +2950,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwi5Hf7i1e0PO7b5tuMvWWHlicyOl-pK9oSnnnkRl34WqBwtavcH6TagRxWZR2E7FYuhm9wIblZr60slHXjYtM02yg2RFs1ez8"
+   },
+   "1452": {
+    "name": "AUG | Signal-Scanner",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_ghost_signal_light_png.png"
+   },
+   "1464": {
+    "name": "AUG | Lapislazuli",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_aug_lapis_lazuli_light_png.png"
    }
   },
   "9": {
@@ -3382,6 +3472,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OO7baFjM8-UD2qSyPpJvOhuRz39kUpw42zWntiteSiVaQYhCJJzEeIOukSwl4XmPrmw4VHXjtpExC_33zQJsHjNnJgjQA"
+   },
+   "1465": {
+    "name": "AWP | Flamme des Herrschers",
+    "rarity": {
+     "id": "rarity_ancient_weapon",
+     "name": "Verdeckt",
+     "color": "#eb4b4b"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_sovereign_flame_light_png.png"
+   },
+   "1467": {
+    "name": "AWP | Blackbox",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_black_box_light_png.png"
    }
   },
   "10": {
@@ -3804,6 +3914,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL3n5vh7h1T9veRbq1_JeecHGyv0e9is-lsXBa1lBAmoAKJk4jxNWWUaVN2DsB5Re4D4BLuxoDvP-PmsQffioJFnnqv3y1A7C9r5-tUUPd35OSJ2E5Oe0pX"
+   },
+   "1461": {
+    "name": "FAMAS | Schlangenlied",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_snake_song_light_png.png"
+   },
+   "1477": {
+    "name": "FAMAS | Korps-Verteidigung",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_famas_corp_defense_light_png.png"
    }
   },
   "11": {
@@ -5312,6 +5442,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRcrFvIeOHB2Sb_uxhj-1gSCGn208j5WqDw9ascn6VOlQoCJV0RbVb5xO5l4fgY-Pk5waMitpHzS79jiJXrnE8cY5TeGQ"
+   },
+   "1446": {
+    "name": "M4A4 | Schattenagent",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light_png.png"
+   },
+   "1463": {
+    "name": "M4A4 | Falak",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "Vertraulich",
+     "color": "#d32ce6"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_m4a4_falak_light_png.png"
    }
   },
   "17": {
@@ -5864,6 +6014,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8n5WxrR1T9veRa6V_H-eBD3fE_uJ_t-l9ASrklhkk4Wrdm9msIy3DblVyA5cmQLMDtxS_ltPmYe_msgbeiY5EziTgznQeYbrm-7Y"
+   },
+   "1448": {
+    "name": "MAC-10 | Videokamera",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_video_cam_light_png.png"
+   },
+   "1454": {
+    "name": "MAC-10 | Arabeskes Mosaik",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_mac10_arabesque_gold_light_png.png"
    }
   },
   "19": {
@@ -7522,6 +7692,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLpk8ewrHZk_P2rV71oLPycGViIzNF6ueZhW2fhkEpz5T7dw9-tJ3-Rb1cpD8chR7JZuxXsloe0Ybux4VDY2N1CnH6vkGoXuebNu3Fx"
+   },
+   "1471": {
+    "name": "XM1014 | Geheimgefängnis",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_xm1014_black_site_light_png.png"
    }
   },
   "26": {
@@ -7904,6 +8084,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLzl4zv8x1Z5uihZpt_LeisAm6Xyfo45OI7S37gwEhx4WiGnt_8eS2RPw4nX8AkTeNftkS8ltLkNePj5gyI3ZUFk3vfJ75LcA"
+   },
+   "1472": {
+    "name": "PP-Bizon | Verräter",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_bizon_bizon_traitor_light_png.png"
    }
   },
   "27": {
@@ -8880,6 +9070,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLin4Hl-S1d6c29abNoJP-VCFiW1P1_v-9WQyC0nQlp4WiHyY79eHmXOw4mW5JwQ-Jc5hO7koXjML_jsgSK2oJHmyz82ilB7DErvbjU0C2wDw"
+   },
+   "1475": {
+    "name": "Abgesägte Schrotflinte | Monddrache",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light_png.png"
    }
   },
   "30": {
@@ -9342,6 +9542,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLlm5W5wipC6s2sabBkK8-WF2KD_vpzs7hWQyC0nQlpsWnRz9atIH3Gag4oCpQjFucP4Rfux9PuNr7j7wDZ3tgTny3_h3xPvzErvbgFFfz3Tg"
+   },
+   "1447": {
+    "name": "Tec-9 | Perimeter",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_perimeter_urban_light_png.png"
+   },
+   "1462": {
+    "name": "Tec-9 | Sultan",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_tec9_sultan_light_png.png"
    }
   },
   "31": {
@@ -10168,6 +10388,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8jsHf8DIM0POjaqF_LPmdC1icyOl-pK9rTCzlzBx14m-AyNupdXqfaQElXsN0QLICsxSxw4HjZuzm4gePjY5C02yg2Z3LgsMw"
+   },
+   "1468": {
+    "name": "MP7 | Basis-2",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_mp7_binary_green_light_png.png"
    }
   },
   "34": {
@@ -10620,6 +10850,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8js_f8DIC0Oe8aqVjH-OcGGKCxOdxvt5lRi67gVMi4m6DmY2hcXLFPAMiA8NxQ-9cshK_m9yyYem04ACLg9hAzH6q239I8G81tD9Ib4M_"
+   },
+   "1469": {
+    "name": "MP9 | Spionageprototyp",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_prototype_extended_light_png.png"
+   },
+   "1473": {
+    "name": "MP9 | Dünen-Natter",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp9_mp9_dune_asp_light_png.png"
    }
   },
   "35": {
@@ -11072,6 +11322,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL_kYDhwipC6s2pbatvKeKXHVicyOl-pK87TSrqzBwisWXTz9qvJXnFOgcnW5J1RLEPuhe_mtHgPuqws1SPi4tA02yg2UgVtCWp"
+   },
+   "1442": {
+    "name": "Nova | Smart Gun",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_smart_light_png.png"
+   },
+   "1474": {
+    "name": "Nova | Morgensonne",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_nova_morning_sun_light_png.png"
    }
   },
   "36": {
@@ -11644,6 +11914,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLhzMOwwjIJuqKRY61jNOOGCW6vzedxuPUnHXrikBkh4jjXzd76I36VPQF2CJV2FOYLthC5k9DiNuOwswKLj4JHxTK-0H3jhNNozg"
+   },
+   "1455": {
+    "name": "P250 | Lotosprägung",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light_png.png"
    }
   },
   "38": {
@@ -11956,6 +12236,26 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLinZfyr3Jk5-urV6dlMv-eC1iCyP5mvORWQyC0nQlpsD7Qydr6dSjEO1MnD5RzRuUIskPpl9zmN-7i5FbYj49NmXj4jXhP6TErvbhHIJnnmg"
+   },
+   "1453": {
+    "name": "SCAR-20 | Wüstenwindschrift",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_sirocco_light_png.png"
+   },
+   "1470": {
+    "name": "SCAR-20 | Arktische Tarnung",
+    "rarity": {
+     "id": "rarity_uncommon_weapon",
+     "name": "Industriequalität",
+     "color": "#5e98d9"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light_png.png"
    }
   },
   "39": {
@@ -13222,6 +13522,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_3HDzaD_ut6teJ9XTy-qhEutDWR1Iz4cnjCag51DZQlEOIMtEa7k9TiNbmw51OP3tlBxCr8iCsY6C5t6uwcEf1y--utkZE"
+   },
+   "1476": {
+    "name": "M4A1-S | Fataler Fehler",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "Vertraulich",
+     "color": "#d32ce6"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light_png.png"
    }
   },
   "61": {
@@ -13664,6 +13974,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSNeODHViDyOJzvvVWTSaqqhEutDWR1Nf8cn_CPAQmW8Z5Ee8P4UbuxILmMLu3tAXYj4hByyWsjCscvy89sOYcEf1yCvXTIoM"
+   },
+   "1451": {
+    "name": "USP-S | Spiral-Glitch",
+    "rarity": {
+     "id": "rarity_legendary_weapon",
+     "name": "Vertraulich",
+     "color": "#d32ce6"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light_png.png"
    }
   },
   "63": {
@@ -14026,6 +14346,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLyhMG1_B1T9veReKVkM_yWF1iUxP13pN5lRi67gVN2tW3Sntuvd3OROFUoXsB2Q-9Zs0Hqlta0Pujr7waIiYJAxS-sjy0c8G81tBzzAWSY"
+   },
+   "1443": {
+    "name": "CZ75-Auto | Hydraulik",
+    "rarity": {
+     "id": "rarity_mythical_weapon",
+     "name": "Limitiert",
+     "color": "#8847ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_cz75a_cz75_hydraulics_light_png.png"
    }
   },
   "64": {
@@ -14288,6 +14618,16 @@
     },
     "marketable": true,
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLjm4Dv8TRe_c29Z6dlH_OcHneV09F3s-JsQT2MhxgxvDGTn53GLSLANkI-C5d5Q7EK4xLpxtDhY-vksleP3d1DzXn52itKvCxstewGVKosqPDTiRaBb-Oa78uGvw"
+   },
+   "1445": {
+    "name": "R8-Revolver | Monarch",
+    "rarity": {
+     "id": "rarity_rare_weapon",
+     "name": "Militärstandard",
+     "color": "#4b69ff"
+    },
+    "marketable": true,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_r8_monarch_extended_light_png.png"
    }
   },
   "500": {
@@ -25699,14 +26039,14 @@
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj5_0ruQhb4iqnk-C5O6PeRe7BsNOSBD2yvwu9mo_RlSmfiwBh_4D_dz9z4J3PDOAJ2WZUkQbYP5kO_kdbnNr7g5g3XjIsWm3_9kGoXuV-uka_9"
   },
   "7041": {
-   "name": "Jackass Sticker Capsule",
+   "name": "Aufkleberkapsel „Jackass“",
    "rarity": {
     "id": "rarity_common",
     "name": "Standardqualität",
     "color": "#b0c3d9"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_jackass_capsule.ca8176af1668e8a78159820b1e3268322eebcf1f.png"
   },
   "5120_highlight": {
    "name": "Souvenirpaket mit Highlight: Inferno – Austin 2025",
@@ -31330,6 +31670,56 @@
    "marketable": false,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSa5EZh-4zx5Gb0QBPyioPtsyEL7fT9O_BsI6fFDWXHwL0k4rVvGSrgwxkm6m-Dntz8dC-fPAAgCJRuBbldkduEXzU"
   },
+  "5281": {
+   "name": "Münze der Karte Boulder",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_boulder.748439a5b7149313af117d7585047b26c5d3a0af.png"
+  },
+  "5282": {
+   "name": "Münze der Karte Fachwerk",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_fachwerk.9da256ad04a6ab20ab9c77e181dd92a5d71fb356.png"
+  },
+  "5283": {
+   "name": "Münze der Karte Shelter",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_shelter.aa6235a044e54e890b5168eccb13317c61aec3e6.png"
+  },
+  "5284": {
+   "name": "Münze der Karte Debris",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_debris.6628196687e25d3cff6fe1b17085d37e3ae9b5d4.png"
+  },
+  "5285": {
+   "name": "Münze der Karte El Dorado",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/maptoken_eldorado.799368ade8e2e3e365c2eaba2cafab15e4643926.png"
+  },
   "5310": {
    "name": "Zuschauerpass – Köln 2026",
    "rarity": {
@@ -31429,6 +31819,366 @@
    },
    "marketable": false,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK"
+  },
+  "5330": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_eg.e663a9c044d35caec33e63c709afc5e82d889f57.png"
+  },
+  "5331": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_11.e0be05b0ff7f98859857672bd315b3b92b93a530.png"
+  },
+  "5332": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_12.ea3a37f03c92ca6adaaa8379b5100f90de8578a7.png"
+  },
+  "5333": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_13.c6a5c91caa0053f6945a72a07efc9def11e8b35f.png"
+  },
+  "5334": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_14.609e97f4e77b4b43b567b091b7f55cbaeb6b4eb6.png"
+  },
+  "5335": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_15.acd0934e798a9d8deb3332757fcc5f825f04bee9.png"
+  },
+  "5336": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_21.f1410547972a1a897eb0750de8d9e39785096e46.png"
+  },
+  "5337": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_22.aac883000ee2308db59ddd2d7ff4ce37ba212aa8.png"
+  },
+  "5338": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_23.5142ebd248f01ddee28f8229b6037fa64e6fd343.png"
+  },
+  "5339": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_24.b1e00b208043cda4ed8f6cb08ba4758322859c9c.png"
+  },
+  "5340": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_25.538e41114f0114ae223ad7d2df648b5554c78146.png"
+  },
+  "5341": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_31.c8e19f13456db3acc90b992ffd7d76f99c2f485b.png"
+  },
+  "5342": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_32.8dd3e15c181fd97af0d65895cbb0695c0721c0c8.png"
+  },
+  "5343": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_33.0eb391431426243645e2abb153ff7022622d9064.png"
+  },
+  "5344": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_34.9f650535fb7571eb1de5c47263a3a2e37f8360cd.png"
+  },
+  "5345": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_35.8b73761a99da93acff2208d07ccd39cc1cc60433.png"
+  },
+  "5346": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_41.d94021b1b3588be21736e9075b39a9c4f2fc6d5a.png"
+  },
+  "5347": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_42.ce0d943e552e5e1d97c30f954e814b13dc4d004a.png"
+  },
+  "5348": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_43.05a8c902db81ed1792fe63d373a118121457d622.png"
+  },
+  "5349": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_44.bc1ac47a34ecac387c991bf13301edffc37dec1d.png"
+  },
+  "5350": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_45.075dc41efd5c384f29e4452502923fd1474543c6.png"
+  },
+  "5351": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_51.3f0621da00c4989de5a18c64b04697f1f62a1760.png"
+  },
+  "5352": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_52.c4546ca70b62345b4160aa3183d8990ff70fb584.png"
+  },
+  "5353": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_53.52695f0cb51995bbbfd34a398efc9677bc73513a.png"
+  },
+  "5354": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_54.9be89b250008771600bdf42a5452dc86e572504d.png"
+  },
+  "5355": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_55.0492abe8a6bdd4bc935b35b4975041871b3e5235.png"
+  },
+  "5356": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_61.edf562d724d18b3c5294898460cb392482b64b8e.png"
+  },
+  "5357": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_62.606fe3e6fa4479a1b22b601c8d0f62cb392efd9c.png"
+  },
+  "5358": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_63.5bbedef01f097b9eb0fb3df10da863c18206f854.png"
+  },
+  "5359": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_64.daa1a56aac5e62db425fb129a81fb030d6576819.png"
+  },
+  "5360": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_65.408c8b27629ef747e4bcc6a08f83e413132e28dc.png"
+  },
+  "5361": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_71.23916b77c515f7006284a97731ef2964f54c9ee9.png"
+  },
+  "5362": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_72.9a1a3d8565489c01b2969b7f024d5d9f9fc97b26.png"
+  },
+  "5363": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_73.5976e203be060190b5cf429e687e695acb400651.png"
+  },
+  "5364": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_74.0805deacf088c33006f7dd06fa9531dc3065d293.png"
+  },
+  "5365": {
+   "name": "Abzeichen der 5. Premium-Saison",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": false,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/premier_seasons/premier_season_5_coin_75.087fd587af57282cafcacf2eb49145f4d5744803.png"
   },
   "6001": {
    "name": "Anstecknadel: Dust II (Echt)",
@@ -128802,6 +129552,536 @@
    "marketable": true,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZXo_C9L5v2gV6NiLPTdCGWVmbh1srZrTn63x08j6zndm93_cSrCZwEkDsRyQuJZ4UXrldOzM_SiuVJNS650Lg"
   },
+  "10314": {
+   "name": "Aufkleber | B'nana Strike",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_nana_strike.a7bc3ff9cc1332e363768577800790cab8fd95e4.png"
+  },
+  "10315": {
+   "name": "Aufkleber | Agent Kurkensalat",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_agent_kucumber.28156ee8bd966809c6bbd6a8d2e0ceb2a9a3b3e9.png"
+  },
+  "10316": {
+   "name": "Aufkleber | Obstkisten-Logo",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_box_logo.93ff72c90e4c9bb1e3283719521fa3de43ca2b46.png"
+  },
+  "10317": {
+   "name": "Aufkleber | Heulsuse",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_dont_cry.99e3992597d51895fea8b65b307b854b02893e4b.png"
+  },
+  "10318": {
+   "name": "Aufkleber | Frisch geschnitten",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_fresh_cut.79fc5341a54805113841096763a471b7203e26c4.png"
+  },
+  "10319": {
+   "name": "Aufkleber | Heimisches Gemüse",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_from_the_source.8836d907a113b83ff2d12364034cb9e7f9ccec96.png"
+  },
+  "10320": {
+   "name": "Aufkleber | Störenfried",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_heckler.e514e00e766b5cd1288bfba11acea525742c4ed1.png"
+  },
+  "10321": {
+   "name": "Aufkleber | Zitrone",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_lemin.1fe69c34ee9c9b9f05800239e07963c7bbe72604.png"
+  },
+  "10322": {
+   "name": "Aufkleber | Saure Gurrke",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_peekle.dbb733bb71813340f6a8d7a1c130f7e4de53bc46.png"
+  },
+  "10323": {
+   "name": "Aufkleber | Scharfer Geruch",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_pungent_comms.6484b9582ba2daa7efe92ce08165ab6f56bd9f46.png"
+  },
+  "10324": {
+   "name": "Aufkleber | Rettich K",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_radish_k.3d414f7661e9bf8894c1bc80253b059268cc9841.png"
+  },
+  "10325": {
+   "name": "Aufkleber | Kratzen und Schnuppern",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_scratch_n_whiff.cd0108ef6aa85e765cfab54785027099701a814c.png"
+  },
+  "10326": {
+   "name": "Aufkleber | Holunderbeeren (Glitzer)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/glitter_aceberry.bb0f46db4ac21d5fd5878c218e24d3f37e661683.png"
+  },
+  "10327": {
+   "name": "Aufkleber | A wie Apfel (Glitzer)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/glitter_apple_a_day.7cd4335cf9c017c933823e4802da32130757fbef.png"
+  },
+  "10328": {
+   "name": "Aufkleber | Trinkpäckchen (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_juice_box.c67a7b413e8d6c9b24bb37e12403ffb0c80d7d95.png"
+  },
+  "10329": {
+   "name": "Aufkleber | Messer-Ninja (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_knife_streak.bb9d2c9c9b017defb330aeca553ab1fd66010866.png"
+  },
+  "10330": {
+   "name": "Aufkleber | Von der Rebe (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_from_the_vine.f6648b14dc58afe383925dd900b85b1f043a08bc.png"
+  },
+  "10331": {
+   "name": "Aufkleber | Scharfe Schote (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_hot_pepper.10788f44c0811754d0ea6ea878634a7be7284b1a.png"
+  },
+  "10332": {
+   "name": "Aufkleber | Qualitätskontrolle (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_quality_control.89018698decd283d163aa53d34e8ee39b1b53aee.png"
+  },
+  "10333": {
+   "name": "Aufkleber | Ultrafruchtig (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_ultra_fruity.0732cb4481df61281a2743567636997129e2b6a5.png"
+  },
+  "10334": {
+   "name": "Aufkleber | Völlig B-A-N-A-N-E (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_banana_face.b05d933e88ffcf6431802c3663a04f13d6b64af8.png"
+  },
+  "10335": {
+   "name": "Aufkleber | Bananenkunst (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_modern_art.6ef4bf13246ed8fc80a5c59637ef589b50b11f75.png"
+  },
+  "10336": {
+   "name": "Aufkleber | Drachenfrucht (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_dragon_fruit.fef32c277d9e3addb1c795dcdbedd7229db15b7f.png"
+  },
+  "10337": {
+   "name": "Aufkleber | Früher Vogel (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_early_bird.0c406e34def2277cf4db0e59c09bb6e3a06c5722.png"
+  },
+  "10338": {
+   "name": "Aufkleber | Fruchtfliege (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_fruit_fly.a1d97e3ad76c1c267116a00119820a16c9b24431.png"
+  },
+  "10339": {
+   "name": "Aufkleber | Ananas auf Pizza (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza.64623d659c37c1986ef30920f036cfb03f498efa.png"
+  },
+  "10340": {
+   "name": "Aufkleber | Schotengewehr (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/lenticular_pepper_gauge.9a318f59498acfa44c3fb285907e22277308eb70.png"
+  },
+  "10341": {
+   "name": "Aufkleber | Frische Brise",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_blaze_breeze.18305296426cba9b3230a5807c2dc364267fe16e.png"
+  },
+  "10342": {
+   "name": "Aufkleber | Bombe an Bord",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_bomb_on_board.827b733bfff380ee416df48c1c3e4cc3aaa4c0d9.png"
+  },
+  "10343": {
+   "name": "Aufkleber | Boreale Böe",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_boreal_blast.6502fe58b54c95ed2ae69177cc8e7a00998f032a.png"
+  },
+  "10344": {
+   "name": "Aufkleber | Bunny-Hop-Hydraulik",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_bhop_hydraulics.f1ba9e31992e00c3ae607f133ad3c18be835d3bb.png"
+  },
+  "10345": {
+   "name": "Aufkleber | Karierter Kukri",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_racing_flag.79ed1fe1c71216abb8df138485427e4ca320329a.png"
+  },
+  "10346": {
+   "name": "Aufkleber | Entschärfungswettrennen",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_defusal_sprint.d233c9ff56379357bcd13bcef463526f6403ab52.png"
+  },
+  "10347": {
+   "name": "Aufkleber | Killometer",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_killometer.37de3fdbb7121497dc5caf4f808c9897e7f1adc6.png"
+  },
+  "10348": {
+   "name": "Aufkleber | Röntgen-Rennclub",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_roentgen_raceclub.0f7580c99a11a4735f88a9583818fa36259b9805.png"
+  },
+  "10349": {
+   "name": "Aufkleber | Runboost-Höherlegungskit",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_run_boost.b9f2647ad9af93f9eb8ca7972f3169e215363a29.png"
+  },
+  "10350": {
+   "name": "Aufkleber | Safarischimmer",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_safari_shine.7888656f01151f20b95bf4e2cefc4c67101e84de.png"
+  },
+  "10351": {
+   "name": "Aufkleber | Sanddünen-Baja-Tour",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_sand_dune_baja_tour.d2238e188a86bcb5c5ba33fcf5dc1e906902832d.png"
+  },
+  "10353": {
+   "name": "Aufkleber | Rennreifen",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_w_tires.f55d0fa6f63f6bca23180d2c922c0556938e415f.png"
+  },
+  "10354": {
+   "name": "Aufkleber | Kegelzone (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_cone_zone.10394f73131696ab2387e9c1c40db976f0dee3a4.png"
+  },
+  "10355": {
+   "name": "Aufkleber | Motorstart (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_engine_start.c406290519ea48f402a822191342e91f2e5906b7.png"
+  },
+  "10356": {
+   "name": "Aufkleber | Erste Runde (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_first_lap.6f0fd76e83effe90b4c1975d779ca603c4267c39.png"
+  },
+  "10357": {
+   "name": "Aufkleber | Neo-Pittstopp (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_neo_hold.960ef3dca32bc916a4563d909e4a12cd39b3abf6.png"
+  },
+  "10358": {
+   "name": "Aufkleber | Neo-Vorstoß (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_neo_rush.04249329a1fc39702cf97b7ecb00eafeb90e984a.png"
+  },
+  "10359": {
+   "name": "Aufkleber | Sicherheit geht vor (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_safety_first.2f1ffe885432d6f00337b0f498db56e35f12d66b.png"
+  },
+  "10360": {
+   "name": "Aufkleber | Sparmodus (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_eco_mode.ed09f9ea02e752ab150822715bf4e4e2e2c5cea6.png"
+  },
+  "10361": {
+   "name": "Aufkleber | Glücksbringer (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_lucky_charms.19e3ac830a4a57cc655d7e17bea7445de4a3f5ba.png"
+  },
+  "10363": {
+   "name": "Aufkleber | Turbomodus (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_turbo_peek.36748c2842e79bb6cc18112e9b46f527c4672a9f.png"
+  },
+  "10364": {
+   "name": "Aufkleber | Vorsicht Scharfschütze (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_watch_sniper.2b5c624230c61763fe3c01c563f141c5a97b4d9a.png"
+  },
+  "10365": {
+   "name": "Aufkleber | Ausgebrannt (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/lenticular_burnout.b8075a69890968ea9c86db02a485edfd0730768a.png"
+  },
+  "10366": {
+   "name": "Aufkleber | Digitales Armaturenbrett (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/lenticular_digital_dashboard.92258b4f5cffc2d5e9bc0098ebd721ca8c2b45a0.png"
+  },
+  "10367": {
+   "name": "Aufkleber | Handgerät (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/lenticular_handheld.a3bf05aefbfc1b6b1b76b6fd22b747135f5b7af7.png"
+  },
+  "10368": {
+   "name": "Aufkleber | NITRO! (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/lenticular_nitro.a7121fa9965f2a9615a6151891c208862447353e.png"
+  },
   "10369": {
    "name": "Aufkleber | Vitality | Köln 2026",
    "rarity": {
@@ -136523,294 +137803,314 @@
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_m4L09Clk6P2ibOo9dqfDWTDAwLwm6bdqTijkxk91smzUw9r8Ii2TZwd0CJB4Ee8Puka6jJS5YImfNjPl"
   },
   "11174": {
-   "name": "Aufkleber | NiKo (Champion) | Cologne 2026",
+   "name": "Aufkleber | NiKo (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_l53vwiFT7v--YatjbvLKXWTHmOoktLRsTijizU4ht2_cydj8eCmVPFAlCpF3TOcIsxLukNT5d7S1oJmNluo"
   },
   "11175": {
-   "name": "Aufkleber | NiKo (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleber | NiKo (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_foil_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_l53vwiFT7v--YatjH_acB2vekL0j5LM-HCi1wE8h5W_dnt76eHuUPwMhC5R4TO9Z4BftwYblZb7kthue1dz48AoJKA"
   },
   "11176": {
-   "name": "Aufkleber | NiKo (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleber | NiKo (Holo, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_holo_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/cologne2026/sig_niko_champion_holo.86ca418fbe8537141e3f614e0b215f19c1ef970b.png"
   },
   "11177": {
-   "name": "Aufkleber | NiKo (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleber | NiKo (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_gold_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_l53vwiFT7v--YatjH_ecAmPewOsi57I5F3-yzU0jtj6EwtiudSiRaAYpW5R5Q-IJ4Ra-wICzY-vr5xue1dxvPV7U8w"
   },
   "11178": {
-   "name": "Aufkleber | kyxsan (Champion) | Cologne 2026",
+   "name": "Aufkleber | kyxsan (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h47z_Cxk7PqvZbRkL_7dDTDBmL9w6eI4HnCwwxhzsmrdnouheH2SO1QmA5slR7ZbuxTtl4LgY_SiuVKnJoQtbA"
   },
   "11179": {
-   "name": "Aufkleber | kyxsan (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleber | kyxsan (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h47z_Cxk7PqvZbRkL_6sCGiZzaB0tOA9Gyjlw01wtznUw9ipIHrBagMlA5pzROJb5Ba6lIDhY7ngs1GLlcsbmvi0_CqQ"
   },
   "11180": {
-   "name": "Aufkleber | kyxsan (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleber | kyxsan (Holo, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h47z_Cxk7PqvZbRkL_6sBmiczqAm5rQ4Gni1xUV05WSHyNn8dCnEP1VzCMR5QuED4xfrxoKyP7jl7wDXlcsbmraa3PFt"
   },
   "11181": {
-   "name": "Aufkleber | kyxsan (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleber | kyxsan (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h47z_Cxk7PqvZbRkL_6sCWicxaBy47k4SS3mxRl24T_cmI6tJSqQOgYnDsEkE-BZuhO9lNe1NLuz4FfWlcsbmop5wu00"
   },
   "11182": {
-   "name": "Aufkleber | m0NESY (Champion) | Cologne 2026",
+   "name": "Aufkleber | m0NESY (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL8zpjl7jtk7PqvZbRkL_7dV2TJl-8hsrNrSyzlwBwl5z-Bmd__InqWPQYiWZEmTeMLtxm-m9SxN_SiuVJyoIOc6Q"
   },
   "11183": {
-   "name": "Aufkleber | m0NESY (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleber | m0NESY (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL8zpjl7jtk7PqvZbRkL_6sCGiZzaB06LM6SSq1l053sGyDydeqIyjFblN0C5J1RrUL5xmwwNS2Neiz7wbWlcsbmj2sv-Xs"
   },
   "11184": {
-   "name": "Aufkleber | m0NESY (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleber | m0NESY (Holo, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL8zpjl7jtk7PqvZbRkL_6sBmiczqB1sudtG3HllkR0tz_Xzd77I3iRbFJ0WMB5E7RctBK6ktO0MePq71CIlcsbmh7zsPGR"
   },
   "11185": {
-   "name": "Aufkleber | m0NESY (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleber | m0NESY (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL8zpjl7jtk7PqvZbRkL_6sCWicxaAm6LE-Ti2ylhl35G7Qwtf8d3_GPVQgC8B4TOIIsxfpldLmMLmz5QXZlcsbmm1UAGOo"
   },
   "11186": {
-   "name": "Aufkleber | TeSeS (Champion) | Cologne 2026",
+   "name": "Aufkleber | TeSeS (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLlm4Xl7h1Y5_OjeK1iLr7GWDPJkb4ituUwSXm1xkl-5z_Vytr_dSmUagQgWJp5RuBftRG7m4DjKaq8sLzHAsKn"
   },
   "11187": {
-   "name": "Aufkleber | TeSeS (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleber | TeSeS (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_foil_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLlm4Xl7h1Y5_OjeK1iLs-VAW6cj78v4bhoS3uwwE106m3WzNf9eHOSO1IhWJtyE-AL5hK6ktDkYrm25wzAy9USnTi_Y4w"
   },
   "11188": {
-   "name": "Aufkleber | TeSeS (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleber | TeSeS (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_holo_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLlm4Xl7h1Y5_OjeK1iLs-bAWufj-xz5OU9HSjrzB914G7Xyoupcy7FbFAhCZt2F-4P50bsldC2NL7jsgLAy9USgX9ZUrU"
   },
   "11189": {
-   "name": "Aufkleber | TeSeS (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleber | TeSeS (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_gold_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLlm4Xl7h1Y5_OjeK1iLs-UAWuUj79w4-JtTSjikE4h4DnSy9_7JC-eawQkW5pyF-9etRLtxNC0ZryxslHAy9USiXUq_Ow"
   },
   "11190": {
-   "name": "Aufkleber | kyousuke (Champion) | Cologne 2026",
+   "name": "Aufkleber | kyousuke (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h5n17jdQ6s2tYKVgMPmcACnDwLcms7JqGi3mkE0l6mSGzN2uJCqUag8mDcB3F7Vc5xO5k4LkPu7k-UWA3AcJApyf"
   },
   "11191": {
-   "name": "Aufkleber | kyousuke (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleber | kyousuke (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h5n17jdQ6s2tYKVgMPmcAFiWzud6_rE6GC3kxRt36mjUzo2rcXmSaQRxDJJ5F7Nb5hG9l9TmY-_m51PZ345bjXKpw8Z8Lmg"
   },
   "11192": {
-   "name": "Aufkleber | kyousuke (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleber | kyousuke (Holo, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h5n17jdQ6s2tYKVgMPmcAFiYzuJ5_rlvG362kEp15GmBytiuIy6SPAMiCsEiReAMu0XuwIXnMLnjsgGI3dpbjXKpXH5DwD0"
   },
   "11193": {
-   "name": "Aufkleber | kyousuke (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleber | kyousuke (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h5n17jdQ6s2tYKVgMPmcAFiXzuJy_rg_TCrikBh-4DnWzoz9IyjEaAYmCcd0FOZYthTtkIfmMr6wswLcioJbjXKpx2Kczrk"
+  },
+  "11194": {
+   "name": "Aufkleber | Wir bitten um Geduld",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_be_patient.87b938c169f41876a714a628741be4fcdb17e256.png"
+  },
+  "11195": {
+   "name": "Aufkleber | Turbo im Herzen (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_born_to_peek.0e6ab6d84de59af3b23bfb83c88e85168a1c316c.png"
   },
   "11196": {
-   "name": "Aufkleber | Airhorn",
+   "name": "Aufkleber | Lufthorn",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_airhorn_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_airhorn.beaa11b0765ed11c0b057b2d5174718cd4dbf612.png"
   },
   "11197": {
-   "name": "Aufkleber | Assterisk",
+   "name": "Aufkleber | Arschterisk",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_assterisk_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_assterisk.df87c5ba7e367d711200c3684ebd62be3adf97c1.png"
   },
   "11198": {
-   "name": "Aufkleber | Big Red Rocket",
+   "name": "Aufkleber | Große Rote Rakete",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_big_red_rocket_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_big_red_rocket.8fcb2aef680093fd3deba8c1163d056ff4c1fb53.png"
   },
   "11199": {
-   "name": "Aufkleber | Boner Snap",
+   "name": "Aufkleber | Knochenbruch",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_boner_snap_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_boner_snap.c7c3c6beb6b1404c7b54da04659300e8537ee707.png"
   },
   "11200": {
-   "name": "Aufkleber | Censored",
+   "name": "Aufkleber | Zensiert",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_censored_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_censored.ffb03584146aa1f194e3535f98eb0a6e61c750cc.png"
   },
   "11201": {
-   "name": "Aufkleber | Explosives",
+   "name": "Aufkleber | Sprengstoff",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_explosives_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_explosives.a1b61169bdc721713c40217e4888f7488e106db4.png"
   },
   "11202": {
-   "name": "Aufkleber | Golf Cart",
+   "name": "Aufkleber | Golfwagen",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_golf_cart_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_golf_cart.f967485f7e467e4d1b6066b1ae4c4ad41a5b2801.png"
   },
   "11203": {
-   "name": "Aufkleber | Gonna Leave A Mark",
+   "name": "Aufkleber | Das wird Spuren hinterlassen",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_leave_a_mark_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_leave_a_mark.53aa5b8e3ccdf50cc6ba2f1955c9c88608f2a6c2.png"
   },
   "11204": {
-   "name": "Aufkleber | Head In Hands",
+   "name": "Aufkleber | Kopf in den Händen",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_head_in_hands_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_head_in_hands.8e74297f25e93b67a398f157d2282b0af6a5b9d0.png"
   },
   "11205": {
    "name": "Aufkleber | High Five!",
@@ -136820,7 +138120,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_high_five_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_high_five.11f19f5831db1a5680af8af933709e8a303b9b3b.png"
   },
   "11206": {
    "name": "Aufkleber | Jackass",
@@ -136830,157 +138130,157 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_jackass_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_jackass.f08c17372964152d33c811ace4113daa08b947e9.png"
   },
   "11207": {
-   "name": "Aufkleber | Partyboy",
+   "name": "Aufkleber | Partygänger",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_partyboy_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_partyboy.7ded329e429e86c291e8bffa02ce45fac25e4dbf.png"
   },
   "11208": {
-   "name": "Aufkleber | Radiograph",
+   "name": "Aufkleber | Röntgenaufnahme",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_radiograph_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_radiograph.bc0e5e74760aa472356174ec2c36adc5a0e86a39.png"
   },
   "11209": {
-   "name": "Aufkleber | Rocket Skates",
+   "name": "Aufkleber | Raketenrollschuhe",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_rocket_skates_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_rocket_skates.3649e30d92fa1b1b27c7c7958ba9c31bf4ae1391.png"
   },
   "11210": {
-   "name": "Aufkleber | Skull Bunny",
+   "name": "Aufkleber | Totenkopfhäschen",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_skull_bunny_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_skull_bunny.ae463e0d695593810833d33a2b12cbc1d4d9e017.png"
   },
   "11211": {
-   "name": "Aufkleber | The Magic Trick",
+   "name": "Aufkleber | Der Zaubertrick",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_bull_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_bull.249922370ebb9da060a9438b7acaec81272c0ff6.png"
   },
   "11212": {
-   "name": "Aufkleber | WARNING",
+   "name": "Aufkleber | WARNUNG",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_warning_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_warning.4589b3df4b4e333482620eb16e95fe8c7091db6e.png"
   },
   "11213": {
-   "name": "Aufkleber | ZZZAP!",
+   "name": "Aufkleber | ZAPP!",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_zzzap_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_zzzap.53d81801d305ab420618939e0dd299a80d496757.png"
   },
   "11214": {
-   "name": "Aufkleber | Airhorn (Glitter)",
+   "name": "Aufkleber | Lufthorn (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_airhorn_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_airhorn.698222909a8abf84fad14d98d1b91dc01e165970.png"
   },
   "11215": {
-   "name": "Aufkleber | Assterisk (Glitter)",
+   "name": "Aufkleber | Arschterisk (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_assterisk_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_assterisk.a69ca679e846e2006afc48a79c63c0c936642c05.png"
   },
   "11216": {
-   "name": "Aufkleber | Big Red Rocket (Glitter)",
+   "name": "Aufkleber | Große Rote Rakete (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_big_red_rocket_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_big_red_rocket.f925da2ba643e5a139b9465e867d065dbba18245.png"
   },
   "11217": {
-   "name": "Aufkleber | Head In Hands (Glitter)",
+   "name": "Aufkleber | Kopf in den Händen (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_head_in_hands_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_head_in_hands.85cc9d6e9fd92662704794cea493a5f3f6d6f25c.png"
   },
   "11218": {
-   "name": "Aufkleber | High Five! (Glitter)",
+   "name": "Aufkleber | High Five! (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_high_five_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_high_five.ec89d289c68e85d4c19380da2394820e0655c6cc.png"
   },
   "11219": {
-   "name": "Aufkleber | Skull Bunny (Glitter)",
+   "name": "Aufkleber | Totenkopfhäschen (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_skull_bunny_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_skull_bunny.82676c008bf727b9a409d9a8dcb748362d2d664d.png"
   },
   "11220": {
-   "name": "Aufkleber | The Magic Trick (Glitter)",
+   "name": "Aufkleber | Der Zaubertrick (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_bull_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_bull.ac7ffb8c51ac6b4c3c305c4ac119c25fa11c9527.png"
   },
   "11221": {
-   "name": "Aufkleber | Boner Snap (Holo)",
+   "name": "Aufkleber | Knochenbruch (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_boner_snap_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_boner_snap.97b2a071baace3b149bb546b9fe53582c9fc1b20.png"
   },
   "11222": {
    "name": "Aufkleber | Jackass (Holo)",
@@ -136990,127 +138290,127 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_jackass_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_jackass.2103483732f4cbfd03adb4e258ebe764e2c75e01.png"
   },
   "11223": {
-   "name": "Aufkleber | Gonna Leave A Mark (Holo)",
+   "name": "Aufkleber | Das wird Spuren hinterlassen (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_leave_a_mark_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_leave_a_mark.863e005757120d0f84f36879eb0a0fde225ca5ff.png"
   },
   "11224": {
-   "name": "Aufkleber | Partyboy (Lenticular)",
+   "name": "Aufkleber | Partygänger (Lentikular)",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_partyboy_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/lenticular_partyboy.99acba8a2911de8d27a0588a3d94f2b9f97058c5.png"
   },
   "11225": {
-   "name": "Aufkleber | Radiograph (Holo)",
+   "name": "Aufkleber | Röntgenaufnahme (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_radiograph_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_radiograph.5cdb77cd42d26bfab958816e2ac2518be411232b.png"
   },
   "11226": {
-   "name": "Aufkleber | Rocket Skates (Holo)",
+   "name": "Aufkleber | Raketenrollschuhe (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_rocket_skates_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_rocket_skates.4c9d6d4b6df029cb2e9531c73442167f0653949f.png"
   },
   "11227": {
-   "name": "Aufkleber | ZZZAP! (Holo)",
+   "name": "Aufkleber | ZAPP! (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_zzzap_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_zzzap.8d472252a29d8a5b4003024947da2a644affb001.png"
   },
   "11228": {
-   "name": "Aufkleber | Assterisk (Foil)",
+   "name": "Aufkleber | Arschterisk (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_assterisk_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_assterisk.4161894484cee67e2f272260cbaa66b9f7fd451a.png"
   },
   "11229": {
-   "name": "Aufkleber | Censored (Foil)",
+   "name": "Aufkleber | Zensiert (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_censored_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_censored.e1adca2bcd9df7e3bbb9631a5d0c83203088ef54.png"
   },
   "11230": {
-   "name": "Aufkleber | Explosives (Foil)",
+   "name": "Aufkleber | Sprengstoff (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_explosives_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_explosives.5488b9f4fc5e49665b5be06cb3254d5222f068e9.png"
   },
   "11231": {
-   "name": "Aufkleber | Radiograph (Foil)",
+   "name": "Aufkleber | Röntgenaufnahme (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_radiograph_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_radiograph.88c127058efb260f7c131cadc62ab7928d8ae9ba.png"
   },
   "11232": {
-   "name": "Aufkleber | WARNING (Foil)",
+   "name": "Aufkleber | WARNUNG (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_warning_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_warning.f64b74a2ee9b5ad439de751d2f71d09776b3812a.png"
   },
   "11233": {
-   "name": "Aufkleber | Electric Avenue (Lenticular)",
+   "name": "Aufkleber | Electric Avenue (Lentikular)",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_electric_avenue_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/lenticular_electric_avenue.27501139f014a283792372d77630ad038050ab13.png"
   },
   "11234": {
-   "name": "Aufkleber | Poo Cocktail Supreme (Lenticular)",
+   "name": "Aufkleber | Fliegendes Baustellenklo (Lentikular)",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_poo_cocktail_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/lenticular_poo_cocktail.dbab68f602f39e2caf5abdf75e8c317925560224.png"
   }
  },
  "graffiti": {
@@ -165141,370 +166441,370 @@
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWjIH_FtQQgu4z31VvyRU-hzMOurHcDvfOrOPFucfWWDDaTxbwl5LBvSnrgxhsk4TjSn437J3zGOFcmCYwwG7A7om1dgw"
   },
   "866": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | ultimate Jump Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | ultimate – Sprung-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "867": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | tabseN 1v2 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | tabseN – 1-vs.-2-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "868": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | koala ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | koala – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "869": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Starry Quad Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Starry – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "870": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | asap ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | asap – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "871": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | hypex Smoke Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | hypex – Rauchgranaten-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "872": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | susp 1v3 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | susp – 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "873": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | beastik Quad Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | beastik – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "874": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | s1zzi 1v3 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | s1zzi – 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "875": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Magnojez 1v3 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Magnojez – 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "876": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | NertZ ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | NertZ – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "877": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Gizmy Knife Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Gizmy – Messer-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "878": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | MATYS ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | MATYS – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "879": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | saffee Triple Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | saffee – Dreifach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "880": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | gr1ks 1v3 AWP Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | gr1ks – 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "881": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | kensizor ACE to Advance",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | kensizor – ACE zum Vorrücken",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "882": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | s1zzi ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | s1zzi – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "883": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | venomzera 1v3 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | venomzera – 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "884": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | donk 4K with One Taps",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | donk – Vier-Kills inkl. Einzelschuss",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "885": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | AZUWU Deagle ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | AZUWU – Desert-Eagle-ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "886": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | w0nderful 2 HP 1v4 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | w0nderful – 1-vs.-4-Clutch mit 2 LP",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "887": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | sh1ro 4K with 1v2 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | sh1ro – Vierfach-Kill mit 1-vs.-2-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "888": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | magixx Multi-weapon ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | magixx – ACE mit mehreren Waffen",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "889": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | KSCERATO 1v3 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | KSCERATO – 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "890": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | YEKINDAR Triple Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | YEKINDAR – Dreifach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "891": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | ZywOo ACE with 1v3 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | ZywOo – ACE mit 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "892": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | dgt Pistol ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | dgt – Pistolen-ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "893": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | woxic 1v4 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | woxic – 1-vs.-4-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "894": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | NiKo Quad Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | NiKo – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "895": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Krabeni ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Krabeni – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "896": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Boombl4 1v3 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Boombl4 – 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "897": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | soulfly 1v2 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | soulfly – 1-vs.-3-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "898": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | sh1ro ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | sh1ro – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "899": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | magixx 1v4 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | magixx – 1-vs.-4-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "900": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | donk 1v2 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | donk – 1-vs.-2-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "901": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | kyousuke 3 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | kyousuke – Dreifach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "902": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | mezii Molotov Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | mezii – Molotow-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "903": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | yuurih 1v4 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | yuurih – 1-vs.-4-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "904": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | HUASOPEEK ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | HUASOPEEK – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "905": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | max 1v2 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | max – 1-vs.-2-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "906": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | soulfly 3 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | soulfly – Dreifach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "907": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | KSCERATO ACE",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | KSCERATO – ACE",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "908": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | YEKINDAR 2 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | YEKINDAR – Doppel-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "909": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | YEKINDAR 3 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | YEKINDAR – Dreifach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "910": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | KSCERATO Quad Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | KSCERATO – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "911": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | kyousuke Triple Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | kyousuke – Dreifach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "912": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | sh1ro Quad Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | sh1ro – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "913": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | TeSeS 1v2 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | sh1ro – 1-vs.-2-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "914": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | karrigan 4 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | karrigan – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "915": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | magixx 4 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | magixx – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "916": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Falcons Team Entrance",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Teameinzug der Falcons",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "917": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | FURIA Team Entrance",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Teameinzug von FURIA",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "918": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | FalleN Quad Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | FalleN – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "919": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | m0NESY 4 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | m0NESY – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "920": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | m0NESY 3 Kills with 1v2 Clutch",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | m0NESY – Dreifach-Kill mit 1-vs.-2-Clutch",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "921": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | kyousuke 4 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | kyousuke – Vierfach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "922": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | karrigan 3 Kills",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | karrigan – Dreifach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "923": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | NiKo Triple Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | NiKo – Dreifach-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "924": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | karrigan Double Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | karrigan – Doppel-Kill",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "925": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | m0NESY Major-winning Kill",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | m0NESY – Kill zum Major-Sieg",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   },
   "926": {
-   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Falcons Trophy-lifting Moment",
+   "name": "Anhänger (Souvenir) | Highlight – Köln 2026 | Falcons hebt die Trophäe",
    "rarity": null,
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/cologne2026/kc_cologne2026_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/keychains/cologne2026/kc_cologne2026.05d337fcc1a93e8c4eabedc73679b2b92ac8588e.png"
   }
  },
  "agents": {
@@ -264188,6 +265488,536 @@
    "marketable": true,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMi0MSnHtwM6547z1UP-VhL-oZXo_C9L5v2gV6NiLPSsXzTFlNEl568wHn3glx905WTWwo3_c33BZ1chDMdzROdct0Kxx9PkP-m34VGLio5D02yg2bKDXo2Z"
   },
+  "10314": {
+   "name": "Aufkleberhülle | B'nana Strike",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_nana_strike_1355_37.0bec2184846b00de9672f93e1d1fd187141794f9.png"
+  },
+  "10315": {
+   "name": "Aufkleberhülle | Agent Kurkensalat",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_agent_kucumber_1355_37.029239eaf152b0f45a9f3cf8289b7199c2c60d81.png"
+  },
+  "10316": {
+   "name": "Aufkleberhülle | Obstkisten-Logo",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_box_logo_1355_37.dffeeacd90022a215a2f45df5732c54fd73dd9a6.png"
+  },
+  "10317": {
+   "name": "Aufkleberhülle | Heulsuse",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_dont_cry_1355_37.76938c14dfc60598634faa3e6b5c22eb777b3fe7.png"
+  },
+  "10318": {
+   "name": "Aufkleberhülle | Frisch geschnitten",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_fresh_cut_1355_37.fadf0acf4528710d39a50a631c1481b34df4e359.png"
+  },
+  "10319": {
+   "name": "Aufkleberhülle | Heimisches Gemüse",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_from_the_source_1355_37.2838d128d3ba8fb959376a3af2e7a336aeccd077.png"
+  },
+  "10320": {
+   "name": "Aufkleberhülle | Störenfried",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_heckler_1355_37.2070ed77ef11f64a9fe9419651c69550e9cdd228.png"
+  },
+  "10321": {
+   "name": "Aufkleberhülle | Zitrone",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_lemin_1355_37.d57eb9dc5720226301aa6be3d03f380a06b0eba4.png"
+  },
+  "10322": {
+   "name": "Aufkleberhülle | Saure Gurrke",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_peekle_1355_37.16cd3600956f941249d5e2ef953e9fd62be228ab.png"
+  },
+  "10323": {
+   "name": "Aufkleberhülle | Scharfer Geruch",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_pungent_comms_1355_37.b4ce288db297d7bb93f2332c238e843f83e53bfb.png"
+  },
+  "10324": {
+   "name": "Aufkleberhülle | Rettich K",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_radish_k_1355_37.35bc78b37f4f428a884339ab39e60c4a9d696c45.png"
+  },
+  "10325": {
+   "name": "Aufkleberhülle | Kratzen und Schnuppern",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_1355_37.bbe72ca3bcf70de5785ff301c1225d8f5682961c.png"
+  },
+  "10326": {
+   "name": "Aufkleberhülle | Holunderbeeren (Glitzer)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/glitter_aceberry_1355_37.0ce4290810dd9d9b4acebf816362ef4ce68cb546.png"
+  },
+  "10327": {
+   "name": "Aufkleberhülle | A wie Apfel (Glitzer)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/glitter_apple_a_day_1355_37.9c6ff8283745b1bc5bb4a4df08802806a9f53113.png"
+  },
+  "10328": {
+   "name": "Aufkleberhülle | Trinkpäckchen (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_juice_box_1355_37.167825f0fb2a2dd60be5958c432385680b6ed509.png"
+  },
+  "10329": {
+   "name": "Aufkleberhülle | Messer-Ninja (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_knife_streak_1355_37.581fdbda0a7af1433929e067f6033203500057ed.png"
+  },
+  "10330": {
+   "name": "Aufkleberhülle | Von der Rebe (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_from_the_vine_1355_37.cca4a387531a94cf48f27d9f7f5e0c8c0cb5b99c.png"
+  },
+  "10331": {
+   "name": "Aufkleberhülle | Scharfe Schote (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_hot_pepper_1355_37.d87d81b1ea2c0540d0fbaffb7200122e30a24c70.png"
+  },
+  "10332": {
+   "name": "Aufkleberhülle | Qualitätskontrolle (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_quality_control_1355_37.c9859bfb4b98d05758992e3abb8f0b0b32791244.png"
+  },
+  "10333": {
+   "name": "Aufkleberhülle | Ultrafruchtig (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/holo_ultra_fruity_1355_37.fb06c33f5403cb0252ce1159fc9683fb6c9eed11.png"
+  },
+  "10334": {
+   "name": "Aufkleberhülle | Völlig B-A-N-A-N-E (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_banana_face_1355_37.54875fd878622811c8df8c7bcb2c6d95e6e1ef82.png"
+  },
+  "10335": {
+   "name": "Aufkleberhülle | Bananenkunst (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_modern_art_1355_37.b878715640614ea1f9c8e00c175b1da87461aa98.png"
+  },
+  "10336": {
+   "name": "Aufkleberhülle | Drachenfrucht (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_dragon_fruit_1355_37.425c510d728132979caacc07505b2419eba5c107.png"
+  },
+  "10337": {
+   "name": "Aufkleberhülle | Früher Vogel (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_early_bird_1355_37.cf1707e71d431da92759a36d66e4a4f75d0f9ec6.png"
+  },
+  "10338": {
+   "name": "Aufkleberhülle | Fruchtfliege (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/foil_fruit_fly_1355_37.61f2478ca8482fb17888be81bcfa11fdb8829b9c.png"
+  },
+  "10339": {
+   "name": "Aufkleberhülle | Ananas auf Pizza (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_1355_37.e42cf7c9634841928004223614169e11b9e8a3b5.png"
+  },
+  "10340": {
+   "name": "Aufkleberhülle | Schotengewehr (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_1355_37.6607b818001a228e52f34ec42e2a2e56e1c9fe8f.png"
+  },
+  "10341": {
+   "name": "Aufkleberhülle | Frische Brise",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_blaze_breeze_1355_37.86cbd3430cce24369a71816bd2f7e5979179cd65.png"
+  },
+  "10342": {
+   "name": "Aufkleberhülle | Bombe an Bord",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_bomb_on_board_1355_37.3b002e2311eed23efa1959ffd56bd1b2816c0c58.png"
+  },
+  "10343": {
+   "name": "Aufkleberhülle | Boreale Böe",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_boreal_blast_1355_37.489076139f856c2d2c895a3ba5b2e0e3cbd12380.png"
+  },
+  "10344": {
+   "name": "Aufkleberhülle | Bunny-Hop-Hydraulik",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_bhop_hydraulics_1355_37.37c382cb099cbdc6cec6d8114d5caea6a78849a2.png"
+  },
+  "10345": {
+   "name": "Aufkleberhülle | Karierter Kukri",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_racing_flag_1355_37.c0edd8cf495f3556a9c0139745f4d528b7796e9c.png"
+  },
+  "10346": {
+   "name": "Aufkleberhülle | Entschärfungswettrennen",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_defusal_sprint_1355_37.8f5ebaee5d01c2a1b69ed5ceda125b8e0043eb24.png"
+  },
+  "10347": {
+   "name": "Aufkleberhülle | Killometer",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_killometer_1355_37.697f388abaf567bed2988a1aecce7742e495903a.png"
+  },
+  "10348": {
+   "name": "Aufkleberhülle | Röntgen-Rennclub",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_roentgen_raceclub_1355_37.354351002f4e7ec2ebc7a475e8b81acc64ede5dd.png"
+  },
+  "10349": {
+   "name": "Aufkleberhülle | Runboost-Höherlegungskit",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_run_boost_1355_37.c352eb26517941c6ebd6539c954c7ee66229ad20.png"
+  },
+  "10350": {
+   "name": "Aufkleberhülle | Safarischimmer",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_safari_shine_1355_37.255a5f633ccd412e893ff03b51e966350b332668.png"
+  },
+  "10351": {
+   "name": "Aufkleberhülle | Sanddünen-Baja-Tour",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_1355_37.e50d53cd7c19a579e3ae28a72af56d66ae1ec528.png"
+  },
+  "10353": {
+   "name": "Aufkleberhülle | Rennreifen",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_w_tires_1355_37.b518495d90d2359996c66ad28499236c73c9d6c0.png"
+  },
+  "10354": {
+   "name": "Aufkleberhülle | Kegelzone (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_cone_zone_1355_37.e9392abd1ee9053626fdbbd2931649ada24346c8.png"
+  },
+  "10355": {
+   "name": "Aufkleberhülle | Motorstart (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_engine_start_1355_37.16e469401179c8243d8f182579b27256438eb14c.png"
+  },
+  "10356": {
+   "name": "Aufkleberhülle | Erste Runde (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_first_lap_1355_37.5fe96a47aa803d60338f94d9236e1c563a40bec5.png"
+  },
+  "10357": {
+   "name": "Aufkleberhülle | Neo-Pittstopp (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_neo_hold_1355_37.d156fd248e6d67a520b0782b09bc4ed1f1cecdc9.png"
+  },
+  "10358": {
+   "name": "Aufkleberhülle | Neo-Vorstoß (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_neo_rush_1355_37.fff2acfc4c4fe1698b40573ea08a52f259a3978b.png"
+  },
+  "10359": {
+   "name": "Aufkleberhülle | Sicherheit geht vor (Holo)",
+   "rarity": {
+    "id": "rarity_mythical",
+    "name": "Bemerkenswert",
+    "color": "#8847ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/holo_safety_first_1355_37.5ee63f4b1a2995b218f9eb6d965fd015e3ada9d5.png"
+  },
+  "10360": {
+   "name": "Aufkleberhülle | Sparmodus (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_eco_mode_1355_37.06a7557d83a59f1efdc4ee2ebff816eb93d383ea.png"
+  },
+  "10361": {
+   "name": "Aufkleberhülle | Glücksbringer (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_lucky_charms_1355_37.7666b4a398275bf74d352367b354c6e12b32438c.png"
+  },
+  "10363": {
+   "name": "Aufkleberhülle | Turbomodus (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_turbo_peek_1355_37.bf764ed67bd55692d3fa566fd10b016c33a80242.png"
+  },
+  "10364": {
+   "name": "Aufkleberhülle | Vorsicht Scharfschütze (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_watch_sniper_1355_37.241d96a28aa675dda2ea7b019ebf11d30d0e665e.png"
+  },
+  "10365": {
+   "name": "Aufkleberhülle | Ausgebrannt (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/lenticular_burnout_1355_37.e091e8d88934229d2878e8b3cc2fd16b4867edc1.png"
+  },
+  "10366": {
+   "name": "Aufkleberhülle | Digitales Armaturenbrett (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/lenticular_digital_dashboard_1355_37.eaf37c28332db104285404d1e9c4c674a0df6391.png"
+  },
+  "10367": {
+   "name": "Aufkleberhülle | Handgerät (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/lenticular_handheld_1355_37.17c6bd2a3fbcde5c9c7b65d9d36a458611f94faf.png"
+  },
+  "10368": {
+   "name": "Aufkleberhülle | NITRO! (Lentikular)",
+   "rarity": {
+    "id": "rarity_ancient",
+    "name": "Außerordentlich",
+    "color": "#eb4b4b"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/lenticular_nitro_1355_37.12ee3102edf4bcecae43795d4d316dbad92b5807.png"
+  },
   "10369": {
    "name": "Aufkleberhülle | Vitality | Köln 2026",
    "rarity": {
@@ -265786,7 +267616,7 @@
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_aleksib_gold_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLwkpPr7itZ0PWhZKBScaPGW1jDlqAhtrA5HHzkwklw4juEnN-gc3jCZwF1XpEmRLVYu0a7wIDjMrjm5gTXlcsbmuxeUdYr"
   },
   "10562": {
    "name": "Aufkleberhülle | b1t | Köln 2026",
@@ -266386,7 +268216,7 @@
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_nota_gold_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_kYLhwiVU4_aROfc4dc_AWSnDkuwn4rQ8SyvrkBt142rdyN_7cC6SPQUmXsN4TeUO5hO5l93kML-z-UWA3G7xN1_0"
   },
   "10622": {
    "name": "Aufkleberhülle | xiELO | Köln 2026",
@@ -266916,7 +268746,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_jimpphat_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL7l5vw7Spa-83_O_E4H6PEQDPGwux34-c-TnDlwUx_5G_WmdahJ3qfPQ5yC5MkRO8L5hm9m4LhMuz8p1uJG4_-n8I"
   },
   "10675": {
    "name": "Aufkleberhülle | Jimpphat (Glanz) | Köln 2026",
@@ -267626,7 +269456,7 @@
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_ryu_gold_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLjh4Pf-i1X683_O_E4H6PEQGLAku90tbk5Hnjkwx5-527QwterIyqQZg8mWJtxQuBeuhPql93gYuP8p1uJKHNpDfc"
   },
   "10746": {
    "name": "Aufkleberhülle | jabbi | Köln 2026",
@@ -267836,7 +269666,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_sunpayus_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLii5jw_DtO_M3_O_E4H6PEQDGTxOp0srg_Syzqlkgit2XXmN_6IniUPAcoApEiFuZbtxfpldXlNOn8p1uJ0pEGGyA"
   },
   "10767": {
    "name": "Aufkleberhülle | SunPayus (Glanz) | Köln 2026",
@@ -268036,7 +269866,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_saadzin_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLin5fk5ytV0KP9PfFSc6fdXjPGmb4ksrY5SnrrzUhz5j7TyI6hdHqRbFdyDpp4Q-Nf4UW6moK1NfSiuVJ5in0CFw"
   },
   "10787": {
    "name": "Aufkleberhülle | saadzin (Glanz) | Köln 2026",
@@ -269166,7 +270996,7 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_nilo_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_l5rvwiRU5v6ROfc4dc_AWSmWxLgk4eUwSS_mwhx34zmDz9-rIn2eOlB1X5AkQ7Ff5xi8wNzgNOiz-UWA3OSRMzFA"
   },
   "10900": {
    "name": "Aufkleberhülle | nilo (Holo) | Köln 2026",
@@ -269286,7 +271116,7 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_yxngstxr_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLohpjn7jZD_c2oZ61hH6HAWzKvkrk44bI7TXzqzURzsT_VzouqeHjFaQEoDZF1QeQPs0XqwdbgMuzj4QPb3pUFk3s8iY9Z_g"
   },
   "10912": {
    "name": "Aufkleberhülle | yxngstxr (Holo) | Köln 2026",
@@ -269366,7 +271196,7 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_zorte_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLrkYT0-B1d4PuiV_U-daWsXTDex7536OQ-GX7gxUl_52TXm4z7ICiRb1UnCpAhTONZthS6mt3kP-y04Bue1dzKQUwHHw"
   },
   "10920": {
    "name": "Aufkleberhülle | zorte (Holo) | Köln 2026",
@@ -269766,7 +271596,7 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_lake_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL9n53lwiRU5v6ROfc4dc_AWSnGkrkv6bk8HCjiwkUl5DjVydj6dCrDPwBzX5F4RuIK4Rfpm9fhY7_k-UWA3EdWvbR1"
   },
   "10960": {
    "name": "Aufkleberhülle | Lake (Holo) | Köln 2026",
@@ -269826,7 +271656,7 @@
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_jba_gold_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL7nJff-i1X683_O_E4H6PEQD6Wlugis7ltSXG3whwismSDmNarcy2TPAQiCsdyQO4JsxG7kdDuZe78p1uJGtQFBc8"
   },
   "10966": {
    "name": "Aufkleberhülle | s1n | Köln 2026",
@@ -270006,7 +271836,7 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_brnz4n_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLzjJj6qSxk6f2nZJs8c6XGMTTHj7khtbBoTXDqwBkismyDy939IHmWaFUnCcR2Q-IM5hK_l4XkMrjh4VbAy9US3fBUxJU"
   },
   "10984": {
    "name": "Aufkleberhülle | brnz4n (Holo) | Köln 2026",
@@ -270666,7 +272496,7 @@
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_moseyuh_gold_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL8kYXl5DdT0PWhZKBScaPGW1jDlqAv6LRqSSvkk0p_5juBw4qgInuXbwUoDMMiQO4CuxntxNTnMe7rslOPlcsbmt6yGSHg"
   },
   "11050": {
    "name": "Aufkleberhülle | Zero | Köln 2026",
@@ -270926,7 +272756,7 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_hen1_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL5m5ixwiRU5v6ROfc4dc_AWSnIwr0js7A5SXDmwEolsWzdzo2hI32WaVMiAsclR-4M5xG-kNDiZunn-UWA3Liz5WDp"
   },
   "11076": {
    "name": "Aufkleberhülle | HEN1 (Holo) | Köln 2026",
@@ -271166,7 +272996,7 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_ultimate_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLkkoLp8CNP6s2oZ61hH6HAWzKvkrk45LE6Hn-wl08h6j-Ew437c3_FOlV1X5MiTbJetRO5kIezMOrk7lOLjJUFk3sGZmF6JA"
   },
   "11100": {
    "name": "Aufkleberhülle | ultimate (Holo) | Köln 2026",
@@ -271786,7 +273616,7 @@
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_jks_gold_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL7lYXf-i1X683_O_E4H6PEQGKUke8hsbI-GH63xx515G_TnNr6In2QOFIpWMd0ELQN5BGwx9HjN-78p1uJgvzD0Q4"
   },
   "11162": {
    "name": "Aufkleberhülle | vexite | Köln 2026",
@@ -271909,47 +273739,47 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_nettik_gold_1355_37_png.png"
   },
   "11174": {
-   "name": "Aufkleberhülle | NiKo (Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | NiKo (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_l53vwiFT7v--YatjH6HAWzKvkrk4sbJqFy_rxBlz42jdz9ahdHyWaQBxC8clROUCsRe7wdbkYurg51aI2JUFk3vNw4OgnQ"
   },
   "11175": {
-   "name": "Aufkleberhülle | NiKo (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | NiKo (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_l53vwiFT7v--YatjH_acB2uvkL0j5d46GGeykEgm5mzXy9z_dijEZlVyA5EhQuAMsRTukYaxMO-2swCPiYhMz375kGoXuYtDdWOJ"
   },
   "11176": {
-   "name": "Aufkleberhülle | NiKo (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | NiKo (Holo, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_holo_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_l53vwiFT7v--YatjH_icAmivkL0j5d46GGe3lEt05mTSm9-qIHvFa1R2AsF5QrEI5ka7mtPhYr_n4Afc2YtCzy78kGoXuQEePFRZ"
   },
   "11177": {
-   "name": "Aufkleberhülle | NiKo (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | NiKo (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_niko_champion_gold_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL_l53vwiFT7v--YatjH_ecAmOvkL0j5d46GGfilhl2426HyNagd3meagYiD5RxTbQOtxW6wNe2NuOz5QDc3Y4QnymrkGoXudbf0Dr5"
   },
   "11178": {
-   "name": "Aufkleberhülle | kyxsan (Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | kyxsan (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
@@ -271959,7 +273789,7 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_1355_37_png.png"
   },
   "11179": {
-   "name": "Aufkleberhülle | kyxsan (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | kyxsan (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
@@ -271969,17 +273799,17 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_foil_1355_37_png.png"
   },
   "11180": {
-   "name": "Aufkleberhülle | kyxsan (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | kyxsan (Holo, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_holo_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h47z_Cxk7PqvZbRkL_6sBmicztEn47Q8cHrk2xwj5T6BzYyqeC6falR1XMZzQbRbtUHqx9HjM-Pn4g3dj48RxS_4iSpXrnE8hUh_58o"
   },
   "11181": {
-   "name": "Aufkleberhülle | kyxsan (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | kyxsan (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
@@ -271989,37 +273819,37 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyxsan_champion_gold_1355_37_png.png"
   },
   "11182": {
-   "name": "Aufkleberhülle | m0NESY (Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | m0NESY (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL8zpjl7jtk7PqvZbRkL_6sXzTFlNEl5684THjrxR9w4jzcyo6hJXuRO1IjCsR4F-ED5hSxlNziMLzisQCMi4tC02yg2XrLuVYd"
   },
   "11183": {
-   "name": "Aufkleberhülle | m0NESY (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | m0NESY (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_foil_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL8zpjl7jtk7PqvZbRkL_6sCGiZzdEn47Q8cHrk20wj4zjUw9msIC3EbQcpC8N4FuYC5hG8xtSyNeOw4AKNjopMyX-ohixXrnE8viK-BrA"
   },
   "11184": {
-   "name": "Aufkleberhülle | m0NESY (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | m0NESY (Holo, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_holo_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL8zpjl7jtk7PqvZbRkL_6sBmicztEn47Q8cHrk209_sGTdwtb_J3qWblAjCZUhFOIIsUW6wd22Yb-ztFDc2YNMyX34hnhXrnE8gkVpEac"
   },
   "11185": {
-   "name": "Aufkleberhülle | m0NESY (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | m0NESY (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
@@ -272029,7 +273859,7 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_m0nesy_champion_gold_1355_37_png.png"
   },
   "11186": {
-   "name": "Aufkleberhülle | TeSeS (Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | TeSeS (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
@@ -272039,7 +273869,7 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_1355_37_png.png"
   },
   "11187": {
-   "name": "Aufkleberhülle | TeSeS (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | TeSeS (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
@@ -272049,17 +273879,17 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_foil_1355_37_png.png"
   },
   "11188": {
-   "name": "Aufkleberhülle | TeSeS (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | TeSeS (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_holo_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiLlm4Xl7h1Y5_OjeK1iLs-bAWuf_r8l5bRWHH79wkQm5WvVmNarc3KWbA90DZEkTLRf4xDqkIXhP-Kw4lDc2o9Fz36qjzQJsHjgjR3lHw"
   },
   "11189": {
-   "name": "Aufkleberhülle | TeSeS (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | TeSeS (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
@@ -272069,17 +273899,17 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_teses_champion_gold_1355_37_png.png"
   },
   "11190": {
-   "name": "Aufkleberhülle | kyousuke (Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | kyousuke (Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h5n17jdQ6s2tYKVgMPmcAFjBkrsjj7I-AX3qwER_tTyGw9v_dSrDaA8hXsMhRu8CtBW6k9bkNejq5VDciY9CziTgznQeusykQM4"
   },
   "11191": {
-   "name": "Aufkleberhülle | kyousuke (Foil, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | kyousuke (Glanz, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
@@ -272089,17 +273919,17 @@
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_foil_1355_37_png.png"
   },
   "11192": {
-   "name": "Aufkleberhülle | kyousuke (Holo, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | kyousuke (Holo, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_holo_1355_37_png.png"
+   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOXSQ61MnpNWipUruRiL6h5n17jdQ6s2tYKVgMPmcAFiYzuJ5j7A6GnyMxkpptTzVn9egcX2ePAV1W5shQuENuxS-lIXvZLiw5QTXiIhGxCis2CpLvzErvbh54tURLQ"
   },
   "11193": {
-   "name": "Aufkleberhülle | kyousuke (Gold, Champion) | Cologne 2026",
+   "name": "Aufkleberhülle | kyousuke (Gold, Meister) | Köln 2026",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
@@ -272108,95 +273938,115 @@
    "marketable": true,
    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/cologne2026/sig_kyousuke_champion_gold_1355_37_png.png"
   },
-  "11196": {
-   "name": "Aufkleberhülle | Airhorn",
+  "11194": {
+   "name": "Aufkleberhülle | Wir bitten um Geduld",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_airhorn_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/paper_be_patient_1355_37.0ba5f3dd0318aaec1f4bac0ac5f7b8c42da79a34.png"
+  },
+  "11195": {
+   "name": "Aufkleberhülle | Turbo im Herzen (Glanz)",
+   "rarity": {
+    "id": "rarity_legendary",
+    "name": "Exotisch",
+    "color": "#d32ce6"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/auto_racing/foil_born_to_peek_1355_37.6944825503fed7796ab36268fc3041fac247eba2.png"
+  },
+  "11196": {
+   "name": "Aufkleberhülle | Lufthorn",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "Hohe Qualität",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_airhorn_1355_37.fe2dfd7af5ddba1d86ef68ff0b6e2865cf93a636.png"
   },
   "11197": {
-   "name": "Aufkleberhülle | Assterisk",
+   "name": "Aufkleberhülle | Arschterisk",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_assterisk_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_assterisk_1355_37.6c0346fffc104c69646fc883739fb63e97ab98c8.png"
   },
   "11198": {
-   "name": "Aufkleberhülle | Big Red Rocket",
+   "name": "Aufkleberhülle | Große Rote Rakete",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_big_red_rocket_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_big_red_rocket_1355_37.6cec789e0abfb9b205b96c34cada3b9c22b210bb.png"
   },
   "11199": {
-   "name": "Aufkleberhülle | Boner Snap",
+   "name": "Aufkleberhülle | Knochenbruch",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_boner_snap_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_boner_snap_1355_37.d3e0b113b1b3f3eb01a6f75861d2fd97a8a9a68f.png"
   },
   "11200": {
-   "name": "Aufkleberhülle | Censored",
+   "name": "Aufkleberhülle | Zensiert",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_censored_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_censored_1355_37.930eb31dbe198e6fea559f264da34da951f0c83e.png"
   },
   "11201": {
-   "name": "Aufkleberhülle | Explosives",
+   "name": "Aufkleberhülle | Sprengstoff",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_explosives_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_explosives_1355_37.87609e5a3132ef98855a22d1abc192cee95b2aae.png"
   },
   "11202": {
-   "name": "Aufkleberhülle | Golf Cart",
+   "name": "Aufkleberhülle | Golfwagen",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_golf_cart_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_golf_cart_1355_37.124673c024d46cf864d75e70c2200cc1b7b6f84c.png"
   },
   "11203": {
-   "name": "Aufkleberhülle | Gonna Leave A Mark",
+   "name": "Aufkleberhülle | Das wird Spuren hinterlassen",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_leave_a_mark_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_leave_a_mark_1355_37.a40a613cfd732dae32c91a9d9292283f68fea0cd.png"
   },
   "11204": {
-   "name": "Aufkleberhülle | Head In Hands",
+   "name": "Aufkleberhülle | Kopf in den Händen",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_head_in_hands_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_head_in_hands_1355_37.5711a571a175abcaaa2c88adaf614932b3892c6a.png"
   },
   "11205": {
    "name": "Aufkleberhülle | High Five!",
@@ -272206,7 +274056,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_high_five_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_high_five_1355_37.e071f2209df89c0b9447ff6fb9e1784a62832916.png"
   },
   "11206": {
    "name": "Aufkleberhülle | Jackass",
@@ -272216,157 +274066,157 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_jackass_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_jackass_1355_37.7f780fb49d8cc71e35b4c772385d976c94c7b0dc.png"
   },
   "11207": {
-   "name": "Aufkleberhülle | Partyboy",
+   "name": "Aufkleberhülle | Partygänger",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_partyboy_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_partyboy_1355_37.8f6be87801860a2f3067bb4bbd3b90a17759302e.png"
   },
   "11208": {
-   "name": "Aufkleberhülle | Radiograph",
+   "name": "Aufkleberhülle | Röntgenaufnahme",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_radiograph_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_radiograph_1355_37.36e866695ab14707d2a07b6e726dec9c4125cf2e.png"
   },
   "11209": {
-   "name": "Aufkleberhülle | Rocket Skates",
+   "name": "Aufkleberhülle | Raketenrollschuhe",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_rocket_skates_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_rocket_skates_1355_37.6d7f273fe704e5e8682c660fd4eb145062b443e8.png"
   },
   "11210": {
-   "name": "Aufkleberhülle | Skull Bunny",
+   "name": "Aufkleberhülle | Totenkopfhäschen",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_skull_bunny_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_skull_bunny_1355_37.99f34fca91191e1e54ef3daa11a89c5eb9dcaeda.png"
   },
   "11211": {
-   "name": "Aufkleberhülle | The Magic Trick",
+   "name": "Aufkleberhülle | Der Zaubertrick",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_bull_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_bull_1355_37.0e83a76cf036a05e32e58847c7d22aa764da9850.png"
   },
   "11212": {
-   "name": "Aufkleberhülle | WARNING",
+   "name": "Aufkleberhülle | WARNUNG",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_warning_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_warning_1355_37.18e3f29c0330837da72005e19e89ba0e7bacf5f2.png"
   },
   "11213": {
-   "name": "Aufkleberhülle | ZZZAP!",
+   "name": "Aufkleberhülle | ZAPP!",
    "rarity": {
     "id": "rarity_rare",
     "name": "Hohe Qualität",
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_zzzap_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/paper_zzzap_1355_37.b1409b8602828b2bfe8edd3a00ee85f6c99af16a.png"
   },
   "11214": {
-   "name": "Aufkleberhülle | Airhorn (Glitter)",
+   "name": "Aufkleberhülle | Lufthorn (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_airhorn_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_airhorn_1355_37.5a8c0cbfd77f421ea3ca81091f3349d274573b40.png"
   },
   "11215": {
-   "name": "Aufkleberhülle | Assterisk (Glitter)",
+   "name": "Aufkleberhülle | Arschterisk (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_assterisk_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_assterisk_1355_37.66c8e34ae5561cc3e737047d4dc3bf96d29db25d.png"
   },
   "11216": {
-   "name": "Aufkleberhülle | Big Red Rocket (Glitter)",
+   "name": "Aufkleberhülle | Große Rote Rakete (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_big_red_rocket_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_big_red_rocket_1355_37.c9e4fc341a38d9528960db7dc9aa421827206ef7.png"
   },
   "11217": {
-   "name": "Aufkleberhülle | Head In Hands (Glitter)",
+   "name": "Aufkleberhülle | Kopf in den Händen (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_head_in_hands_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_head_in_hands_1355_37.6f3b41205ca7c7cfd3894732e248cccc36fdc21b.png"
   },
   "11218": {
-   "name": "Aufkleberhülle | High Five! (Glitter)",
+   "name": "Aufkleberhülle | High Five! (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_high_five_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_high_five_1355_37.e0ab4ed3d5d12c07b0afe9079c5aa43949397ffd.png"
   },
   "11219": {
-   "name": "Aufkleberhülle | Skull Bunny (Glitter)",
+   "name": "Aufkleberhülle | Totenkopfhäschen (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_skull_bunny_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_skull_bunny_1355_37.392106459bb1c7e989fd910c9d1664b7385ce772.png"
   },
   "11220": {
-   "name": "Aufkleberhülle | The Magic Trick (Glitter)",
+   "name": "Aufkleberhülle | Der Zaubertrick (Glitzer)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_bull_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/glitter_bull_1355_37.8f877d2930c890f96fde4f5c0e1ed6f746709e6f.png"
   },
   "11221": {
-   "name": "Aufkleberhülle | Boner Snap (Holo)",
+   "name": "Aufkleberhülle | Knochenbruch (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_boner_snap_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_boner_snap_1355_37.35a313fdd8b0378aafefe57f41f4b0fd240873ff.png"
   },
   "11222": {
    "name": "Aufkleberhülle | Jackass (Holo)",
@@ -272376,127 +274226,127 @@
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_jackass_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_jackass_1355_37.ce97a90b40dead2f0e883f5c28a7e04784638610.png"
   },
   "11223": {
-   "name": "Aufkleberhülle | Gonna Leave A Mark (Holo)",
+   "name": "Aufkleberhülle | Das wird Spuren hinterlassen (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_leave_a_mark_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_leave_a_mark_1355_37.5081d7f5c6ba60eceac20f81ea70126358a8db60.png"
   },
   "11224": {
-   "name": "Aufkleberhülle | Partyboy (Lenticular)",
+   "name": "Aufkleberhülle | Partygänger (Lentikular)",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_partyboy_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/lenticular_partyboy_1355_37.6b6813bcf3a8a570bcea10348cf41c1681c6c567.png"
   },
   "11225": {
-   "name": "Aufkleberhülle | Radiograph (Holo)",
+   "name": "Aufkleberhülle | Röntgenaufnahme (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_radiograph_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_radiograph_1355_37.1f20f5f3ef5c267ce719277036f61f682736dd86.png"
   },
   "11226": {
-   "name": "Aufkleberhülle | Rocket Skates (Holo)",
+   "name": "Aufkleberhülle | Raketenrollschuhe (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_rocket_skates_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_rocket_skates_1355_37.844aa46b5ec4c37768297514e0b33f5261db04b5.png"
   },
   "11227": {
-   "name": "Aufkleberhülle | ZZZAP! (Holo)",
+   "name": "Aufkleberhülle | ZAPP! (Holo)",
    "rarity": {
     "id": "rarity_mythical",
     "name": "Bemerkenswert",
     "color": "#8847ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_zzzap_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/holo_zzzap_1355_37.5cc6f256505a9664589bfff115c3ccf0e5b4c47a.png"
   },
   "11228": {
-   "name": "Aufkleberhülle | Assterisk (Foil)",
+   "name": "Aufkleberhülle | Arschterisk (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_assterisk_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_assterisk_1355_37.beb8959a790899eecd75a0375d75e768ca378f39.png"
   },
   "11229": {
-   "name": "Aufkleberhülle | Censored (Foil)",
+   "name": "Aufkleberhülle | Zensiert (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_censored_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_censored_1355_37.1883942cf413090db333c8003d90d40975773ab5.png"
   },
   "11230": {
-   "name": "Aufkleberhülle | Explosives (Foil)",
+   "name": "Aufkleberhülle | Sprengstoff (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_explosives_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_explosives_1355_37.2e4a654ae4974d3ce20d64f9ba744247f2a42777.png"
   },
   "11231": {
-   "name": "Aufkleberhülle | Radiograph (Foil)",
+   "name": "Aufkleberhülle | Röntgenaufnahme (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_radiograph_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_radiograph_1355_37.795d1c88ad9a98511e7ba10f234e9dd10c3bb7f0.png"
   },
   "11232": {
-   "name": "Aufkleberhülle | WARNING (Foil)",
+   "name": "Aufkleberhülle | WARNUNG (Glanz)",
    "rarity": {
     "id": "rarity_legendary",
     "name": "Exotisch",
     "color": "#d32ce6"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_warning_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/foil_warning_1355_37.0d3d346ecda89d1c1923c78972185983e00150e3.png"
   },
   "11233": {
-   "name": "Aufkleberhülle | Electric Avenue (Lenticular)",
+   "name": "Aufkleberhülle | Electric Avenue (Lentikular)",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_electric_avenue_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/lenticular_electric_avenue_1355_37.c6d88a3ca94e27c867efc6c7ae025c9d06f43b22.png"
   },
   "11234": {
-   "name": "Aufkleberhülle | Poo Cocktail Supreme (Lenticular)",
+   "name": "Aufkleberhülle | Fliegendes Baustellenklo (Lentikular)",
    "rarity": {
     "id": "rarity_ancient",
     "name": "Außerordentlich",
     "color": "#eb4b4b"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_poo_cocktail_1355_37_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/stickers/community/jackass/lenticular_poo_cocktail_1355_37.60898edf1366409d936d58e943e45b222c4994f8.png"
   }
  },
  "tools": {
